@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>amazon-relase</name>
-	      <url>http://35.154.191.105:8081/repository/amazon-relase/</url>
+	      <url>http://3.110.212.11:8081/repository/amazon-relase/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>amazon-snapshot</name>
-	      <url>http://35.154.191.105:8081/repository/amazon-snapshot/</url>
+	      <url>http://3.110.212.11:8081/repository/amazon-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
